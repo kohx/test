@@ -5,3 +5,6 @@ dist: trusty
 sudo: false
 cache: yarn
 script: yarn run jest --coverage
+addons:
+  code_climate:
+    repo_token: ab6dff69bdbbd98cc9a6d48fc2e3e308e213690eeb82cc8bdc8c4a12c72938d9
