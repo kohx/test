@@ -1,0 +1,11 @@
+{
+  "name": "jesttest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kohx/test.git",
+  "author": "okuda <okuda@aska-ltd.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
