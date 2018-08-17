@@ -1,0 +1,2 @@
+{"C:\\_koheidrive\\jesttest\\sum.js": {"path":"C:\\_koheidrive\\jesttest\\sum.js","statementMap":{"0":{"start":{"line":1,"column":0},"end":{"line":3,"column":3}},"1":{"start":{"line":2,"column":4},"end":{"line":2,"column":17}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":1,"column":17},"end":{"line":1,"column":18}},"loc":{"start":{"line":1,"column":32},"end":{"line":3,"column":3}},"line":1}},"branchMap":{},"s":{"0":1,"1":1},"f":{"0":1},"b":{},"_coverageSchema":"332fd63041d2c1bcb487cc26dd0d5f7d97098a6c","hash":"6302fa488cc9018e8290f99fdac7bf35dbae7b69"}
+}
